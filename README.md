@@ -38,25 +38,25 @@ This project is a **real-time Auto-Correction Tool** that listens to keyboard in
 3. Run the script:
    ```bash
    python autocorrection.py
-##Usage
+## Usage
   -Start the script.
   -Begin typing in any text input field.
   -Misspelled words will be auto-corrected as you type when the spacebar is pressed.
-##Requirements
+## Requirements
   -Python 3.x
-##Libraries:
-  -pynput
-  -pyautogui
-  -pyspellchecker
-#Limitations
+## Libraries:
+  -`pynput`
+  -`pyautogui`
+  -`pyspellchecker`
+## Limitations
   -May not work properly with non-standard keyboard layouts.
   -Requires focus on the text field to function correctly.
   -Works only for single-word corrections; compound corrections are not supported.
-#Contributions
+## Contributions
   -Feel free to contribute by:
 
-#Forking this repository.
+## Forking this repository.
   -Creating a new branch for your feature or fix.
   -Submitting a pull request.
-#License
+## License
 This project is open-source and available under the MIT License.
